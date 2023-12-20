@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ViewModelAndLiveData</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="add">ADD</string>
+    <string name="_0">0</string>
+    <string name="click_here">Click Here</string>
+    <string name="next">Next</string>
 </resources>
